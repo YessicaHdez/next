@@ -2,21 +2,21 @@
   "todos": [
     {
       "title": "task1",
-      "responsible": "mark",
+      "responsible": "Yessica",
       "description": "lorem impsum",
-      "state": "low"
+      "state": "DONE"
     },
     {
       "title": "task2",
-      "responsible": "ryan",
+      "responsible": "Alex",
       "description": "lorem impsum",
-      "state": "medium"
+      "state": "TO DO"
     },
     {
       "title": "task3",
-      "responsible": "joseph",
+      "responsible": "Cindy",
       "description": "lorem impsum",
-      "state": "high"
+      "state": "IN PROGRESS"
     }
   ]
 }
