@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "task1",
+      "responsible": "mark",
+      "description": "lorem impsum",
+      "state": "low"
+    },
+    {
+      "title": "task2",
+      "responsible": "ryan",
+      "description": "lorem impsum",
+      "state": "medium"
+    },
+    {
+      "title": "task3",
+      "responsible": "joseph",
+      "description": "lorem impsum",
+      "state": "high"
+    }
+  ]
+}
